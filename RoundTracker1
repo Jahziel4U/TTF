@@ -1,0 +1,21 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <div style="
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #a8e063, #56ab2f);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        border: 5px solid #2e7d32;
+    ">
+        <a href="https://jahziel4u.github.io/TTF/ProjectTracker.html" target="_blank" style="text-decoration: none; color: white; text-align: center;">
+            <div>
+                <img src="https://cdn-icons-png.flaticon.com/512/2909/2909765.png" alt="Tree Icon" style="width: 100px; height: 100px;">
+                <h2 style="font-family: Arial, sans-serif; font-size: 24px; margin-top: 20px;">Project Tracker</h2>
+                <p style="font-family: Arial, sans-serif; font-size: 16px;">Click to view progress</p>
+            </div>
+        </a>
+    </div>
+</div>
